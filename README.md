@@ -24,6 +24,9 @@ This app was created to streamline the process of using real Apple Health Data i
 - Simulating various health data scenarios
 - Ensuring app compatibility with different health data sets
 
+## Known Issue
+- Apple Sleep Analysis is not working properly. The sleep phases do not import as they should. This is currently not limiting for my used case but in case you need to work with sleep data then this code is not working properly and needs to be fixed.
+
 ## Author
 
 Created by Radim Simanek
